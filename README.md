@@ -1,0 +1,1 @@
+# aos92-ESP32CAM-QRCode-Reader
